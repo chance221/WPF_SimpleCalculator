@@ -1,0 +1,40 @@
+﻿<Window x:Class="Wpf_MySimpleCalculator.Window1"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Wpf_MySimpleCalculator"
+        mc:Ignorable="d"
+        Title="Help Window" Height="400" Width="300">
+    <Grid>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="280"/>
+            <RowDefinition Height="70"/>
+        </Grid.RowDefinitions>
+        <StackPanel
+            Width="240" Margin="26,10,26,9">
+            <TextBlock
+                Grid.Row="0"
+                Height="235"
+                Width="244"
+                TextWrapping="Wrap"
+                VerticalAlignment="Top"
+                HorizontalAlignment="Center"
+                FontSize="16"
+                Text="Please select the measurement you are converting from into the dropdown menu. Type in the amount of that
+                measurement into the box next to the conversion from dropdown menu. Select the units you are converting it into 
+                from the second drup down menu and click the ocnversion button"
+                TextAlignment="Center" Margin="-2,0"  
+                />
+        </StackPanel>
+        <Button
+            x:Name="Button_CloseButton"
+            Content="Close"
+            Height="25"
+            Width="80"
+            HorizontalAlignment="Center"
+            Grid.Row="1"
+            Click="Button_CloseButton_Click"
+            />
+    </Grid>
+</Window>

@@ -1,0 +1,15 @@
+C:\Users\cjkel\source\repos\Wpf_MySimpleCalculator\Wpf_MySimpleCalculator\bin\Debug\Wpf_MySimpleCalculator.exe.config
+C:\Users\cjkel\source\repos\Wpf_MySimpleCalculator\Wpf_MySimpleCalculator\bin\Debug\Wpf_MySimpleCalculator.exe
+C:\Users\cjkel\source\repos\Wpf_MySimpleCalculator\Wpf_MySimpleCalculator\bin\Debug\Wpf_MySimpleCalculator.pdb
+C:\Users\cjkel\source\repos\Wpf_MySimpleCalculator\Wpf_MySimpleCalculator\obj\Debug\Wpf_MySimpleCalculator.csprojAssemblyReference.cache
+C:\Users\cjkel\source\repos\Wpf_MySimpleCalculator\Wpf_MySimpleCalculator\obj\Debug\MainWindow.g.cs
+C:\Users\cjkel\source\repos\Wpf_MySimpleCalculator\Wpf_MySimpleCalculator\obj\Debug\App.g.cs
+C:\Users\cjkel\source\repos\Wpf_MySimpleCalculator\Wpf_MySimpleCalculator\obj\Debug\Wpf_MySimpleCalculator_MarkupCompile.cache
+C:\Users\cjkel\source\repos\Wpf_MySimpleCalculator\Wpf_MySimpleCalculator\obj\Debug\Wpf_MySimpleCalculator_MarkupCompile.lref
+C:\Users\cjkel\source\repos\Wpf_MySimpleCalculator\Wpf_MySimpleCalculator\obj\Debug\MainWindow.baml
+C:\Users\cjkel\source\repos\Wpf_MySimpleCalculator\Wpf_MySimpleCalculator\obj\Debug\Wpf_MySimpleCalculator.g.resources
+C:\Users\cjkel\source\repos\Wpf_MySimpleCalculator\Wpf_MySimpleCalculator\obj\Debug\Wpf_MySimpleCalculator.Properties.Resources.resources
+C:\Users\cjkel\source\repos\Wpf_MySimpleCalculator\Wpf_MySimpleCalculator\obj\Debug\Wpf_MySimpleCalculator.csproj.GenerateResource.cache
+C:\Users\cjkel\source\repos\Wpf_MySimpleCalculator\Wpf_MySimpleCalculator\obj\Debug\Wpf_MySimpleCalculator.csproj.CoreCompileInputs.cache
+C:\Users\cjkel\source\repos\Wpf_MySimpleCalculator\Wpf_MySimpleCalculator\obj\Debug\Wpf_MySimpleCalculator.exe
+C:\Users\cjkel\source\repos\Wpf_MySimpleCalculator\Wpf_MySimpleCalculator\obj\Debug\Wpf_MySimpleCalculator.pdb
